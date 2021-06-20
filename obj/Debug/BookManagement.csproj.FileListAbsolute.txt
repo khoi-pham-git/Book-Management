@@ -1,0 +1,10 @@
+D:\FPTU\semester5\PRN292\Lab\BookManagement\bin\Debug\BookManagement.exe.config
+D:\FPTU\semester5\PRN292\Lab\BookManagement\bin\Debug\BookManagement.exe
+D:\FPTU\semester5\PRN292\Lab\BookManagement\bin\Debug\BookManagement.pdb
+D:\FPTU\semester5\PRN292\Lab\BookManagement\bin\Debug\BookLib.dll
+D:\FPTU\semester5\PRN292\Lab\BookManagement\bin\Debug\BookLib.pdb
+D:\FPTU\semester5\PRN292\Lab\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+D:\FPTU\semester5\PRN292\Lab\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+D:\FPTU\semester5\PRN292\Lab\BookManagement\obj\Debug\BookManagement.exe
+D:\FPTU\semester5\PRN292\Lab\BookManagement\obj\Debug\BookManagement.pdb
+D:\FPTU\semester5\PRN292\Lab\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
